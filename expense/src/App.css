@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  margin-top: 10rem;
+  justify-content: center;
+  align-items: center;
+}
+#balance{
+  background-color: aqua;
+  text-align: center;
+
+}
+.container{
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}
+.inc-exp-container{
+  display: flex;
+  height: 100px;
+  width: 300px;
+  box-shadow: 2px 2px 6px  black;
+ justify-content: center;
+ padding: 0px 10px;
+}
+.inc-exp-container h4 {
+  line-height: 0%;
+
+}
+.money-plus{
+  padding: 20px;
+  line-height: 0%;
+  color: rgb(30, 255, 0);
+  font-size: larger;
+  
+}
+.money-minus{
+  padding: 20px;
+  line-height: 0%;
+}
+li{
+  list-style: none;
+}

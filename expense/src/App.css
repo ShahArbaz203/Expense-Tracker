@@ -40,3 +40,23 @@
 li{
   list-style: none;
 }
+
+.minus  span{
+  padding:  40px;
+  
+}
+.delete-btn{
+  width: 50px;
+  background-color: rgb(128, 222, 40);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.delete-btn:hover{
+  width: 60px;
+  background-color: red;
+  
+}
+.list{
+color: red;
+}
